@@ -1,5 +1,5 @@
 {
-  "categories/v1/": [
+  "categories/v1": [
     {
       "id": 2,
       "name": "Услуги",
@@ -7,7 +7,7 @@
       "url": "https://mock-restapi-main.onrender.com/categories/v1/uslugi/"
     }
   ],
-  "countries/v1/": [
+  "countries/v1": [
     {
       "id": 1,
       "name": "Argentina",
@@ -19,7 +19,7 @@
       "url": "https://mock-restapi-main.onrender.com/countries/v1/2/"
     }
   ],
-  "currencies/v1/": [
+  "currencies/v1": [
     {
       "id": 1,
       "name": "RUB",
@@ -27,8 +27,8 @@
       "order": 0
     }
   ],
-  "products/v1/": [],
-  "users/v1/": [
+  "products/v1": [],
+  "users/v1": [
     {
       "id": 1,
       "username": "admin",
