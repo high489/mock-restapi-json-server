@@ -1,4 +1,62 @@
 {
+  "categories/v1/": [
+    {
+      "id": 2,
+      "name": "Услуги",
+      "slug": "uslugi",
+      "url": "https://mock-restapi-main.onrender.com/categories/v1/uslugi/"
+    }
+  ],
+  "countries/v1/": [
+    {
+      "id": 1,
+      "name": "Argentina",
+      "url": "https://mock-restapi-main.onrender.com/countries/v1/1/"
+    },
+    {
+      "id": 2,
+      "name": "Chili",
+      "url": "https://mock-restapi-main.onrender.com/countries/v1/2/"
+    }
+  ],
+  "currencies/v1/": [
+    {
+      "id": 1,
+      "name": "RUB",
+      "code": "RUB",
+      "order": 0
+    }
+  ],
+  "products/v1/": [],
+  "users/v1/": [
+    {
+      "id": 1,
+      "username": "admin",
+      "first_name": "",
+      "last_name": "",
+      "telegram_id": 123456789,
+      "photo_url": null,
+      "user_url": "https://mock-restapi-main.onrender.com/users/v1/1/",
+      "products": [],
+      "average_rating": 0,
+      "ratings_count": 0,
+      "my_rating": null
+    },
+    {
+      "id": 3,
+      "username": "newpunknot",
+      "first_name": "newpunk",
+      "last_name": "sdsa",
+      "telegram_id": 7727039536,
+      "photo_url": null,
+      "user_url": "https://mock-restapi-main.onrender.com/users/v1/3/",
+      "products": [],
+      "average_rating": 0,
+      "ratings_count": 0,
+      "my_rating": null
+    }
+  ],
+
   "posts": [
     {
       "userId": 1,
